@@ -1,0 +1,30 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+/*.menu-option{
+    display: flex;
+    align-items:flex-start;
+}*/
+
+span{
+    color: white;
+}
+.flower-img{
+  display: flex;
+}
+.mb-3{
+    display: flex;
+    
+}
+.flower-img{
+    background-color: #ebf5eb;
+    justify-content: center;
+}
+
+
+/* Write all your CSS here! */
